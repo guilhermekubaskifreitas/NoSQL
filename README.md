@@ -7,4 +7,4 @@
 * Terminal do VScode para realizar a aplicação **(juntamente com a instalação do SDK firebase-admin)**
 * JavaScript para construir o código da aplicação
 
-## 📄 Veja aqui o código utilizado para a aplicação:
+## 📄 Veja aqui o código utilizado para a aplicação: [clique aqui!](https://github.com/guilhermekubaskifreitas/NoSQL/blob/main/aplicacao-firebase.js)
