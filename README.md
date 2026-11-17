@@ -4,4 +4,4 @@
 
 ## 📌 Tecnologias Implementadas
 * Firebase para gerenciar os dados e também para fazer conexão API
-* VSCode para realizar a aplicação **(juntamente com a instalação do firebase-admin)**
+* VSCode para realizar a aplicação **(juntamente com a instalação do SDK firebase-admin)**
